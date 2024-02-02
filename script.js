@@ -73,3 +73,4 @@ function showResult(index1,index2,index3){
   
   
 }
+//iam high at sky
